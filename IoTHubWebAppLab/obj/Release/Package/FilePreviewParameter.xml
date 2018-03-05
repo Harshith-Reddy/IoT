@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ghriotwebapp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\harsh\\Downloads\\IOT\\IoT-Live-2017-master\\lab3\\IoTHubWebAppLab\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\harsh\\Downloads\\IOT\\IoT-Live-2017-master\\lab3\\IoTHubWebAppLab\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
